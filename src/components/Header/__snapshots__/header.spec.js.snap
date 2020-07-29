@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header should render correctly 1`] = `
+<div
+  className="header-section"
+>
+  <div
+    className="inner-box"
+  >
+    <Button
+      active={false}
+      className="header-items"
+      disabled={false}
+      variant="primary"
+    >
+      Employees
+    </Button>
+    <Button
+      active={false}
+      className="header-items"
+      disabled={false}
+      variant="primary"
+    >
+      Add Employee
+    </Button>
+  </div>
+</div>
+`;
