@@ -1,9 +1,9 @@
 {
-  "employees": [
+  "posts": [
     {
       "name": "Hema Kumar",
       "role": "Team Lead",
-      "ctc": "1000000",
+      "ctc": "1350000",
       "id": 1
     },
     {
@@ -14,15 +14,21 @@
     },
     {
       "name": "Yogesh",
-      "role": "Full Stack Dev",
+      "role": "Front end",
       "ctc": "500000",
       "id": 3
     },
     {
       "name": "Anshu",
-      "role": "React Developer",
+      "role": "Senior React Developer",
       "ctc": "800000",
       "id": 4
+    },
+    {
+      "name": "Surendra",
+      "role": "Sr. Software Engineer",
+      "ctc": "900000",
+      "id": 6
     }
   ]
 }
